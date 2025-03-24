@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dummy-ims-app/static/css/main.e6c13ad2.css",
+    "main.js": "/dummy-ims-app/static/js/main.2fc41312.js",
+    "static/js/787.6ff93ffe.chunk.js": "/dummy-ims-app/static/js/787.6ff93ffe.chunk.js",
+    "index.html": "/dummy-ims-app/index.html",
+    "main.e6c13ad2.css.map": "/dummy-ims-app/static/css/main.e6c13ad2.css.map",
+    "main.2fc41312.js.map": "/dummy-ims-app/static/js/main.2fc41312.js.map",
+    "787.6ff93ffe.chunk.js.map": "/dummy-ims-app/static/js/787.6ff93ffe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2fc41312.js"
+  ]
+}
